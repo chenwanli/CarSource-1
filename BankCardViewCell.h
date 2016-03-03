@@ -1,0 +1,14 @@
+//
+//  BankCardViewCell.h
+//  CarSource
+//
+//  Created by apple on 15/12/30.
+//  Copyright © 2015年 apple. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface BankCardViewCell : UITableViewCell
+@property (nonatomic,strong)UIImageView *bankImage;
+@property (nonatomic,strong)UILabel *bankLabel;
+@end

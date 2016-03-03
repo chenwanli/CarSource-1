@@ -1,0 +1,15 @@
+//
+//  PchFile.pch
+//  CarSource
+//
+//  Created by apple on 15/12/10.
+//  Copyright © 2015年 apple. All rights reserved.
+//
+
+#ifndef PchFile_pch
+#define PchFile_pch
+#import "Header.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PchFile_pch */
